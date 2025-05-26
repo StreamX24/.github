@@ -17,7 +17,7 @@ At StreamX24, we specialize in developing real-time, community-driven platforms,
 
 ## 🧱 Tech Stack
 
-- **Framework**: Blitjs
+- **Framework**: Blitzjs
 - **Frontend**: React.js, Tailwind CSS, 
 - **Backend**: Node.js, Express.js, Prisma ORM
 - **Real-Time**: Socket.IO, WebRTC
