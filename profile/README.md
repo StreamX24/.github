@@ -1,16 +1,16 @@
-# 🚀 StreamX24 Organization
+# 🚀 Codebazaar Organization
 
-Welcome to **StreamX24**, a dynamic and innovative ecosystem dedicated to building modern, scalable, and real-time digital experiences. We craft powerful platforms that bring together technology, entertainment, and communities.
+Welcome to **Codebazaar**, a dynamic and innovative ecosystem dedicated to building modern, scalable, and real-time digital experiences. We craft powerful platforms that bring together technology, entertainment, and communities.
 
 ## 🌐 About Us
 
-At StreamX24, we specialize in developing real-time, community-driven platforms, with a primary focus on gaming, streaming, and collaborative tools. Our projects aim to deliver high-performance user experiences by leveraging modern full-stack technologies, cloud infrastructure, and microservices.
+At Codebazaar, we specialize in developing real-time, community-driven platforms, with a primary focus on gaming, streaming, and collaborative tools. Our projects aim to deliver high-performance user experiences by leveraging modern full-stack technologies, cloud infrastructure, and microservices.
 
 ## 🧩 Key Projects
 
 | Project | Description |
 |--------|-------------|
-| 🎮 **StreamX24 Arena** | A full-featured gaming tournament platform for players, teams, and organizers. |
+| 🎮 **Codebazaar Arena** | A full-featured gaming tournament platform for players, teams, and organizers. |
 | 🛠️ **RTCCP** (Real-Time Code Collaboration Platform) | A collaborative coding environment with multi-language support and real-time communication. |
 | 📊 **StreamX Analytics** | Analytics and monitoring tools tailored for live streaming and eSports platforms. |
 | 💬 **ChatX** | A real-time chat engine optimized for performance, moderation, and scalability. |
@@ -47,13 +47,13 @@ Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 ## 📫 Contact
 
-- 📧 Email: streamx24official@gmail.com
-- 🌐 Website: [https://streamx24.com](https://streamx24.com)
+- 📧 Email: Codebazaarofficial@gmail.com
+- 🌐 Website: [https://Codebazaar.com](https://Codebazaar.com)
 
 ## 📜 License
 
-All projects under StreamX24 are licensed under the MIT License unless otherwise specified.
+All projects under Codebazaar are licensed under the MIT License unless otherwise specified.
 
 ---
 
-> _“Build experiences. Connect communities. Stream the future.” – Team StreamX24_
+> _“Build experiences. Connect communities. Stream the future.” – Team Codebazaar_
